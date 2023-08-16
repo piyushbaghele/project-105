@@ -2,7 +2,7 @@ import os
 import cv2
 
 
-path = "Images/"
+path = "Images"
 
 images = []
 
